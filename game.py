@@ -7,7 +7,7 @@ def draw_snowman(screen, x, y):
 
 pygame.init()
 
-black = [0, 255, 0]
+black = [0, 255, 100]
 white = [100, 55, 255]
 
 size = [400, 500]
